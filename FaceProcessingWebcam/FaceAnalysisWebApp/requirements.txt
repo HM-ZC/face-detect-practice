@@ -1,0 +1,7 @@
+opencv-python
+dlib
+imutils
+numpy
+gradio
+mediapipe==0.10.10
+
